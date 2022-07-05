@@ -13,7 +13,7 @@
   "author": "OcelotlZ",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/opus": "^0.5.3",
+    "@discordjs/opus": "^0.8.0",
     "@discordjs/voice": "^0.6.0",
     "canvas": "^2.8.0",
     "colors": "^1.4.0",
